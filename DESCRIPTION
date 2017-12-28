@@ -1,0 +1,13 @@
+Package: tttShiny
+Type: Package
+Title: Common Tic-tac-toe shiny code
+Version: 0.1.0
+Author: Paul Kristoff
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
+Suggests: testthat
